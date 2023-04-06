@@ -55,6 +55,16 @@
           </li>
 
           <li class="nav-item">
+            <a href="{{URL::to('/list_dokter')}}" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>
+                Dokter
+                <!-- <span class="right badge badge-danger">New</span> -->
+              </p>
+            </a>
+          </li>
+
+          <li class="nav-item">
             <a href="{{URL::to('/list_spesialisasi')}}" class="nav-link">
               <i class="nav-icon fas fa-th"></i>
               <p>
