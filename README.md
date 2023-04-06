@@ -1,7 +1,3 @@
-# laravel10multiauth
-
-
-
 ## Getting started
 
 ```
