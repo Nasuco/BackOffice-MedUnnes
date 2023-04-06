@@ -1,12 +1,3 @@
-## Getting started
-
-```
-cd existing_repo
-git remote add origin https://gitlab.com/muradbdinfo/laravel10multiauth.git
-git branch -M main
-git push -uf origin main
-```
-
 ## Integrate with your tools
 
 - [ ] [Set up project integrations](https://gitlab.com/muradbdinfo/laravel10multiauth/-/settings/integrations)
