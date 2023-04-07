@@ -1,4 +1,4 @@
-@extends('backend.layouts.app')
+
   <!-- Modal -->
   <div class="modal fade" id="ReadPasien" tabindex="-1" aria-labelledby="ReadPasienLabel" aria-hidden="true">
     <div class="modal-dialog">

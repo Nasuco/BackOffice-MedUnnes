@@ -13,7 +13,7 @@
           <img src="{{('backend/dist/img/user2-160x160.jpg')}}" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">{{ Auth::user()->name }}</a>
+          <a href="#" class="d-block text-white">{{ Auth::user()->name }}</a>
         </div>
       </div>
 
@@ -77,7 +77,7 @@
 
 
 <li class="nav-item">
-<a class="dropdown-item" href="{{ route('logout') }}"
+<a class="dropdown-item nav-link" href="{{ route('logout') }}"
 onclick="event.preventDefault();
 document.getElementById('logout-form').submit();">
 <i class="nav-icon fas fa-th"></i> Logout
