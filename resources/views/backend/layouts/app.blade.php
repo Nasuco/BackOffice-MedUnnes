@@ -143,9 +143,6 @@
   </aside>
   <!-- /.control-sidebar -->
 
-  <!-- Main Footer -->
-  @include('backend.layouts.footer')
-
 <!-- ./wrapper -->
 
 <!-- REQUIRED SCRIPTS -->
