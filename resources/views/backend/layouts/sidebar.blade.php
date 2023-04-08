@@ -55,6 +55,16 @@
           </li>
 
           <li class="nav-item">
+            <a href="{{URL::to('/list_konsultasi')}}" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>
+                Konsultasi Pasien
+                <!-- <span class="right badge badge-danger">New</span> -->
+              </p>
+            </a>
+          </li>
+
+          <li class="nav-item">
             <a href="{{URL::to('/list_dokter')}}" class="nav-link">
               <i class="nav-icon fas fa-th"></i>
               <p>
@@ -69,6 +79,16 @@
               <i class="nav-icon fas fa-th"></i>
               <p>
                 Spesialisasi
+                <!-- <span class="right badge badge-danger">New</span> -->
+              </p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="{{URL::to('/aktivitas')}}" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>
+                Log Activity
                 <!-- <span class="right badge badge-danger">New</span> -->
               </p>
             </a>
